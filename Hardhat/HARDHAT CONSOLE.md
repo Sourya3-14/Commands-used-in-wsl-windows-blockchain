@@ -37,6 +37,3 @@ undefined
 
 
 
-**to run a test for your smart contract (first write a testcode in javascript in test folder then tun using**
-tarn hardhat test
-
